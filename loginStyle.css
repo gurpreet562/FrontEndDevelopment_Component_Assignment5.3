@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+#one{
+    
+    
+    margin:30px;
+padding:20px;
+   border:grey;
+    width:600px;
+    background-color: gray;
+    position:relative;
+    left:350px;
+    top:100px;
+
+    
+}
+#firstname{
+    margin:20px;
+    width:500px;
+}
+#lastname{
+    margin:20px;
+    width:500px;
+}    
+#username{
+    margin:20px;
+    width:500px;
+}
+#password{
+    margin:20px;
+    width:500px;
+}        
+#confirm{
+    margin:20px;
+    width:500px;
+}    
+    
+
+#submit{
+margin-left:20px;
+margin-top:-40px;
+padding-top:10px;
+width:100px;
+}
